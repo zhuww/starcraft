@@ -1,0 +1,59 @@
+import RBUT 
+from zerg import *
+import time,sys
+
+oldStdout = sys.stdout
+sys.stdout = open("12Pool.log", "w")
+
+T = 0.
+m = []
+t = []
+simulator = zerg(0.5)
+PriorityQueue = []
+#def condition1():
+   #return  simulator.population - simulator.PopOcupied >= Drone.PopReq
+def condition2():
+   return  simulator.mineral > 100.
+#PriorityQueue.append((1,RBUT.ConditionItem(Drone, simulator, condition1)))
+PriorityQueue.append((1,RBUT.NumberItem(Drone, simulator, 4)))
+#PriorityQueue.append((2,RBUT.ConditionItem(RBUT.NumberItem(Extractor, simulator, 2), simulator, condition2)))
+#PriorityQueue.append((4,RBUT.CancelItem(Extractor, simulator)))
+#PriorityQueue.append((5,RBUT.CancelItem(Extractor, simulator)))
+PriorityQueue.append((2,RBUT.NumberItem(Spawning_Pool,simulator, 1)))
+PriorityQueue.append((3,RBUT.NumberItem(Overlord, simulator, 1)))
+PriorityQueue.append((6,RBUT.NumberItem(Drone, simulator, 3)))
+PriorityQueue.append((8,RBUT.NumberItem(Drone, simulator, 2)))
+PriorityQueue.append((9,RBUT.NumberItem(Drone, simulator, 2)))
+PQ = RBUT.pipeline(PriorityQueue)
+
+def run(simulator, m, t, made=[False] * 3):
+    M = simulator.mineral
+    m.append(M) 
+    t.append(simulator.time)
+    #print simulator.PopOcupied,simulator.population
+    PQ.make()
+
+Hatchery.hatching()
+simulator.mainloop(200., run, simulator, m, t)
+Hatchery.StopHatch()
+
+for log in simulator.log:
+    print '%s: %s took %s' % (log[0].name, log[2], log[3])
+
+import matplotlib
+import matplotlib.pyplot as plt
+from numpy import array
+from plot import *
+
+fig = plt.figure()
+sp = fig.add_subplot(111)
+#sp.set_xlim(0,200)
+#sp.set_ylim(0,600)
+for item in simulator.log:
+    plotlog(sp,item)
+plt.xlabel('Time (s)')
+plt.ylabel('Mineral')
+plt.plot(t, m)
+plt.show()
+
+sys.stdout = oldStdout

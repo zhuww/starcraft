@@ -1,0 +1,301 @@
+
+2 Ghosts and 2 Marine in 5:0 min:12.9867785046
+SCV|SCV|SCV|SCV|Supply_Depot|SCV|Barracks|Refinery|SCV|Marine|Ghost_Academy|Refinery|Marine|SCV|Moebius_Reactor|Barracks_Tech_Lab|Ghost|Ghost
+1 SCV
+2 SCV
+3 SCV
+4 SCV
+5 Supply_Depot
+6 SCV
+7 Barracks
+8 Refinery
+9 SCV
+10 Marine
+11 Ghost_Academy
+12 Refinery
+13 Marine
+14 SCV
+15 Moebius_Reactor
+16 Barracks_Tech_Lab
+17 Ghost
+18 Ghost
+2 Ghosts and 1 Marine in 5:0 min:12.9892132871
+SCV|SCV|SCV|Supply_Depot|SCV|SCV|SCV|Barracks|Refinery|Refinery|SCV|Ghost_Academy|Marine|Barracks_Tech_Lab|Moebius_Reactor|Ghost|Ghost|SCV
+1 SCV
+2 SCV
+3 SCV
+4 Supply_Depot
+5 SCV
+6 SCV
+7 SCV
+8 Barracks
+9 Refinery
+10 Refinery
+11 SCV
+12 Ghost_Academy
+13 Marine
+14 Barracks_Tech_Lab
+15 Moebius_Reactor
+16 Ghost
+17 Ghost
+18 SCV
+2 Ghosts and 1 Marine in 5:0 min:12.9892132871
+SCV|SCV|SCV|Supply_Depot|SCV|SCV|SCV|Barracks|Refinery|Refinery|SCV|Ghost_Academy|Marine|Moebius_Reactor|Barracks_Tech_Lab|Ghost|Ghost|SCV
+1 SCV
+2 SCV
+3 SCV
+4 Supply_Depot
+5 SCV
+6 SCV
+7 SCV
+8 Barracks
+9 Refinery
+10 Refinery
+11 SCV
+12 Ghost_Academy
+13 Marine
+14 Moebius_Reactor
+15 Barracks_Tech_Lab
+16 Ghost
+17 Ghost
+18 SCV
+2 Ghosts and 1 Marine in 5:0 min:12.9894430739
+SCV|SCV|SCV|SCV|Supply_Depot|SCV|Barracks|SCV|Refinery|Refinery|SCV|Ghost_Academy|Marine|Moebius_Reactor|Barracks_Tech_Lab|Ghost|Ghost|SCV
+1 SCV
+2 SCV
+3 SCV
+4 SCV
+5 Supply_Depot
+6 SCV
+7 Barracks
+8 SCV
+9 Refinery
+10 Refinery
+11 SCV
+12 Ghost_Academy
+13 Marine
+14 Moebius_Reactor
+15 Barracks_Tech_Lab
+16 Ghost
+17 Ghost
+18 SCV
+2 Ghosts and 1 Marine in 5:0 min:12.9894430739
+SCV|SCV|SCV|SCV|Supply_Depot|SCV|Barracks|SCV|Refinery|Refinery|SCV|Ghost_Academy|Marine|Barracks_Tech_Lab|Moebius_Reactor|Ghost|Ghost|SCV
+1 SCV
+2 SCV
+3 SCV
+4 SCV
+5 Supply_Depot
+6 SCV
+7 Barracks
+8 SCV
+9 Refinery
+10 Refinery
+11 SCV
+12 Ghost_Academy
+13 Marine
+14 Barracks_Tech_Lab
+15 Moebius_Reactor
+16 Ghost
+17 Ghost
+18 SCV
+2 Ghosts and 1 Marine in 5:0 min:12.9997735004
+SCV|SCV|SCV|SCV|Supply_Depot|Refinery|Barracks|SCV|SCV|SCV|Ghost_Academy|SCV|Marine|Refinery|Moebius_Reactor|Barracks_Tech_Lab|Ghost|Ghost
+1 SCV
+2 SCV
+3 SCV
+4 SCV
+5 Supply_Depot
+6 Refinery
+7 Barracks
+8 SCV
+9 SCV
+10 SCV
+11 Ghost_Academy
+12 SCV
+13 Marine
+14 Refinery
+15 Moebius_Reactor
+16 Barracks_Tech_Lab
+17 Ghost
+18 Ghost
+2 Ghosts and 1 Marine in 5:0 min:13.0040016663
+SCV|SCV|SCV|SCV|Supply_Depot|SCV|SCV|Barracks|Refinery|Refinery|SCV|Ghost_Academy|Marine|Moebius_Reactor|Barracks_Tech_Lab|Ghost|Ghost|SCV
+1 SCV
+2 SCV
+3 SCV
+4 SCV
+5 Supply_Depot
+6 SCV
+7 SCV
+8 Barracks
+9 Refinery
+10 Refinery
+11 SCV
+12 Ghost_Academy
+13 Marine
+14 Moebius_Reactor
+15 Barracks_Tech_Lab
+16 Ghost
+17 Ghost
+18 SCV
+2 Ghosts and 1 Marine in 5:0 min:13.0040016663
+SCV|SCV|SCV|SCV|Supply_Depot|SCV|SCV|Barracks|Refinery|Refinery|SCV|Ghost_Academy|Marine|Barracks_Tech_Lab|Moebius_Reactor|Ghost|Ghost|SCV
+1 SCV
+2 SCV
+3 SCV
+4 SCV
+5 Supply_Depot
+6 SCV
+7 SCV
+8 Barracks
+9 Refinery
+10 Refinery
+11 SCV
+12 Ghost_Academy
+13 Marine
+14 Barracks_Tech_Lab
+15 Moebius_Reactor
+16 Ghost
+17 Ghost
+18 SCV
+2 Ghosts and 1 Marine in 5:0 min:13.0148464777
+SCV|SCV|SCV|Supply_Depot|SCV|Refinery|Barracks|SCV|SCV|SCV|Ghost_Academy|SCV|Marine|Refinery|Moebius_Reactor|Barracks_Tech_Lab|Ghost|Ghost
+1 SCV
+2 SCV
+3 SCV
+4 Supply_Depot
+5 SCV
+6 Refinery
+7 Barracks
+8 SCV
+9 SCV
+10 SCV
+11 Ghost_Academy
+12 SCV
+13 Marine
+14 Refinery
+15 Moebius_Reactor
+16 Barracks_Tech_Lab
+17 Ghost
+18 Ghost
+2 Ghosts and 2 Marine in 5:0 min:13.0255087952
+SCV|SCV|SCV|Supply_Depot|SCV|SCV|Barracks|Refinery|SCV|Marine|SCV|Refinery|Ghost_Academy|Marine|Moebius_Reactor|Barracks_Tech_Lab|Ghost|Ghost
+1 SCV
+2 SCV
+3 SCV
+4 Supply_Depot
+5 SCV
+6 SCV
+7 Barracks
+8 Refinery
+9 SCV
+10 Marine
+11 SCV
+12 Refinery
+13 Ghost_Academy
+14 Marine
+15 Moebius_Reactor
+16 Barracks_Tech_Lab
+17 Ghost
+18 Ghost
+2 Ghosts and 2 Marine in 5:0 min:13.0255087952
+SCV|SCV|SCV|Supply_Depot|SCV|SCV|Barracks|Refinery|SCV|Marine|Refinery|SCV|Ghost_Academy|Marine|Moebius_Reactor|Barracks_Tech_Lab|Ghost|Ghost
+1 SCV
+2 SCV
+3 SCV
+4 Supply_Depot
+5 SCV
+6 SCV
+7 Barracks
+8 Refinery
+9 SCV
+10 Marine
+11 Refinery
+12 SCV
+13 Ghost_Academy
+14 Marine
+15 Moebius_Reactor
+16 Barracks_Tech_Lab
+17 Ghost
+18 Ghost
+2 Ghosts and 2 Marine in 5:0 min:13.0255087952
+SCV|SCV|SCV|Supply_Depot|SCV|SCV|Barracks|Refinery|SCV|Marine|Refinery|SCV|Ghost_Academy|Marine|Moebius_Reactor|Barracks_Tech_Lab|Ghost|Ghost
+1 SCV
+2 SCV
+3 SCV
+4 Supply_Depot
+5 SCV
+6 SCV
+7 Barracks
+8 Refinery
+9 SCV
+10 Marine
+11 Refinery
+12 SCV
+13 Ghost_Academy
+14 Marine
+15 Moebius_Reactor
+16 Barracks_Tech_Lab
+17 Ghost
+18 Ghost
+2 Ghosts and 2 Marine in 5:0 min:13.0359684297
+SCV|SCV|SCV|SCV|Supply_Depot|SCV|Barracks|Refinery|SCV|Marine|Refinery|SCV|Ghost_Academy|Marine|Moebius_Reactor|Barracks_Tech_Lab|Ghost|Ghost
+1 SCV
+2 SCV
+3 SCV
+4 SCV
+5 Supply_Depot
+6 SCV
+7 Barracks
+8 Refinery
+9 SCV
+10 Marine
+11 Refinery
+12 SCV
+13 Ghost_Academy
+14 Marine
+15 Moebius_Reactor
+16 Barracks_Tech_Lab
+17 Ghost
+18 Ghost
+2 Ghosts and 2 Marine in 5:0 min:13.0359684297
+SCV|SCV|SCV|SCV|Supply_Depot|SCV|Barracks|Refinery|SCV|Marine|SCV|Refinery|Ghost_Academy|Marine|Moebius_Reactor|Barracks_Tech_Lab|Ghost|Ghost
+1 SCV
+2 SCV
+3 SCV
+4 SCV
+5 Supply_Depot
+6 SCV
+7 Barracks
+8 Refinery
+9 SCV
+10 Marine
+11 SCV
+12 Refinery
+13 Ghost_Academy
+14 Marine
+15 Moebius_Reactor
+16 Barracks_Tech_Lab
+17 Ghost
+18 Ghost
+2 Ghosts and 2 Marine in 5:0 min:13.0596424454
+SCV|SCV|SCV|SCV|Supply_Depot|Barracks|SCV|Refinery|SCV|SCV|Marine|Refinery|Ghost_Academy|Marine|Moebius_Reactor|Barracks_Tech_Lab|Ghost|Ghost
+1 SCV
+2 SCV
+3 SCV
+4 SCV
+5 Supply_Depot
+6 Barracks
+7 SCV
+8 Refinery
+9 SCV
+10 SCV
+11 Marine
+12 Refinery
+13 Ghost_Academy
+14 Marine
+15 Moebius_Reactor
+16 Barracks_Tech_Lab
+17 Ghost
+18 Ghost

@@ -1,0 +1,97 @@
+0.0 s: creating Drone 7
+11.6 s: creating Drone 8
+17.0 s: Drone 7 created
+22.4 s: creating Drone 9
+28.6 s: Drone 8 created
+31.9 s: creating Drone 10
+39.4 s: Drone 9 created
+45.0 s: creating Extractor 1
+45.0 s: creating Drone 10
+45.0 s: Extractor cancelled
+48.9 s: Drone 10 created
+56.1 s: creating Overlord 2
+62.0 s: Drone 11 created
+81.1 s: Overlord 2 created
+81.1 s: creating Drone 12
+81.1 s: creating Drone 13
+94.7 s: creating Spawning_Pool 1
+98.1 s: Drone 11 created
+98.1 s: Drone 12 created
+101.1 s: creating Drone 13
+106.9 s: creating Drone 14
+118.1 s: Drone 13 created
+120.0 s: creating Drone 15
+123.9 s: Drone 14 created
+135.0 s: creating Drone 16
+137.0 s: Drone 15 created
+152.0 s: Drone 16 created
+159.7 s: Spawning_Pool 1 created
+159.7 s: creating Queen 1
+165.0 s: creating Overlord 3
+190.0 s: Overlord 3 created
+190.0 s: creating Zergling 1
+195.0 s: creating Zergling 2
+209.7 s: Queen 1 created
+209.720708623: Hatchery injected
+210.0 s: creating Zergling 3
+214.0 s: Zergling 2 created
+219.0 s: Zergling 4 created
+225.0 s: creating Zergling 6
+234.0 s: Zergling 6 created
+240.0 s: creating Zergling 8
+249.0 s: Zergling 8 created
+249.720708623: Hatchery Spawned
+249.7 s: creating Zergling 10
+249.7 s: creating Zergling 11
+249.7 s: creating Overlord 4
+249.7 s: creating Zergling 12
+254.720708623: Hatchery injected
+264.0 s: Zergling 10 created
+273.7 s: Zergling 12 created
+273.7 s: Zergling 14 created
+273.7 s: Zergling 16 created
+274.7 s: Overlord 4 created
+274.7 s: creating Zergling 17
+274.7 s: creating Zergling 18
+285.0 s: creating Zergling 19
+294.720708623: Hatchery Spawned
+294.7 s: creating Zergling 20
+294.7 s: creating Zergling 21
+294.7 s: creating Zergling 22
+294.7 s: creating Zergling 23
+298.7 s: Zergling 18 created
+298.7 s: Zergling 20 created
+299.720708623: Hatchery injected
+Number of loops 90
+Drone: 0 took 17
+Drone: 11.6379069767 took 17
+Drone: 22.3721262458 took 17
+Drone: 31.8775290698 took 17
+Extractor: 45 took 0
+Drone: 45 took 17
+Overlord: 56.1313143688 took 25
+Drone: 81.1313143688 took 17
+Drone: 81.1313143688 took 17
+Spawning_Pool: 94.7207086228 took 65
+Drone: 101.103929735 took 17
+Drone: 106.917883224 took 17
+Drone: 120 took 17
+Drone: 135 took 17
+Queen: 159.720708623 took 50
+Overlord: 165 took 25
+Zergling: 190 took 24
+Zergling: 195 took 24
+Zergling: 210 took 24
+Zergling: 225 took 24
+Zergling: 240 took 24
+Zergling: 249.720708623 took 24
+Zergling: 249.720708623 took 24
+Overlord: 249.720708623 took 25
+Zergling: 249.720708623 took 24
+Zergling: 274.720708623 took 24
+Zergling: 274.720708623 took 24
+Zergling: 285 took 24
+Zergling: 294.720708623 took 24
+Zergling: 294.720708623 took 24
+Zergling: 294.720708623 took 24
+Zergling: 294.720708623 took 24

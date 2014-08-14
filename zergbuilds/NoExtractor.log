@@ -1,0 +1,44 @@
+<class 'zerg.Hatcherycls'>
+0.0 s: creating Drone 7
+15.4 s: creating Drone 8
+17.0 s: Drone 7 created
+30.8 s: creating Drone 9
+32.4 s: Drone 8 created
+46.2 s: creating Overlord 2
+47.8 s: Drone 9 created
+53.9 s: creating Drone 10
+70.9 s: Drone 10 created
+71.2 s: Overlord 2 created
+71.2 s: creating Drone 11
+77.0 s: creating Drone 12
+84.7 s: creating Drone 13
+88.2 s: Drone 11 created
+94.0 s: Drone 12 created
+101.7 s: Drone 13 created
+107.8 s: creating Spawning_Pool 1
+115.5 s: creating Drone 13
+123.2 s: creating Drone 14
+130.9 s: creating Drone 15
+132.5 s: Drone 13 created
+136.2 s: creating Drone 16
+140.2 s: Drone 14 created
+147.9 s: Drone 15 created
+153.2 s: Drone 16 created
+172.8 s: Spawning_Pool 1 created
+172.8 s: creating Queen 1
+177.1 s: creating Overlord 3
+Drone: 0 took 17
+Drone: 15.4 took 17
+Drone: 30.8 took 17
+Overlord: 46.2 took 25
+Drone: 53.9 took 17
+Drone: 71.2 took 17
+Drone: 77.0 took 17
+Drone: 84.7 took 17
+Spawning_Pool: 107.8 took 65
+Drone: 115.5 took 17
+Drone: 123.2 took 17
+Drone: 130.9 took 17
+Drone: 136.2 took 17
+Queen: 172.8 took 50
+Overlord: 177.1 took 25

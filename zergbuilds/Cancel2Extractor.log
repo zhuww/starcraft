@@ -1,0 +1,51 @@
+race zerg restarted
+0.0 s: creating Drone 7
+15.4 s: creating Drone 8
+17.0 s: Drone 7 created
+30.8 s: creating Drone 9
+32.4 s: Drone 8 created
+38.5 s: creating Drone 10
+47.8 s: Drone 9 created
+55.5 s: Drone 10 created
+61.6 s: creating Extractor 1
+61.6 s: creating Extractor 2
+61.6 s: creating Drone 9
+61.6 s: creating Drone 10
+61.6 s: Extractor cancelled
+61.6 s: Extractor cancelled
+77.0 s: creating Overlord 2
+78.6 s: Drone 11 created
+78.6 s: Drone 12 created
+100.1 s: creating Spawning_Pool 1
+102.0 s: Overlord 2 created
+107.8 s: creating Drone 12
+115.5 s: creating Drone 13
+123.2 s: creating Drone 14
+124.8 s: Drone 12 created
+130.9 s: creating Drone 15
+132.5 s: Drone 13 created
+138.6 s: creating Drone 16
+140.2 s: Drone 14 created
+147.9 s: Drone 15 created
+155.6 s: Drone 16 created
+165.1 s: Spawning_Pool 1 created
+165.1 s: creating Queen 1
+167.8 s: creating Overlord 3
+192.8 s: Overlord 3 created
+Drone: 0 took 17.0
+Drone: 15.4 took 17.0
+Drone: 30.8 took 17.0
+Drone: 38.5 took 17.0
+Extractor: 61.6 took 0.0
+Extractor: 61.6 took 0.0
+Drone: 61.6 took 17.0
+Drone: 61.6 took 17.0
+Overlord: 77.0 took 25.0
+Spawning_Pool: 100.1 took 65.0
+Drone: 107.8 took 17.0
+Drone: 115.5 took 17.0
+Drone: 123.2 took 17.0
+Drone: 130.9 took 17.0
+Drone: 138.6 took 17.0
+Queen: 165.1 took 50.0
+Overlord: 167.8 took 25.0

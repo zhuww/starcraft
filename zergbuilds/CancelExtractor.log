@@ -1,0 +1,42 @@
+0 s: creating Drone 7
+15 s: creating Drone 8
+17 s: Drone 7 created
+30 s: creating Drone 9
+33 s: Drone 8 created
+38 s: creating Drone 10
+48 s: Drone 9 created
+53 s: creating Extractor 1
+55 s: Drone 9 created
+62 s: creating Extractor 2
+70 s: creating Drone 9
+70 s: creating Drone 10
+71 s: Extractor cancelled
+72 s: Extractor cancelled
+77 s: creating Overlord 2
+87 s: Drone 11 created
+88 s: Drone 12 created
+102 s: Overlord 2 created
+107 s: creating Spawning_Pool 1
+108 s: creating Drone 12
+115 s: creating Drone 13
+123 s: creating Drone 14
+126 s: Drone 12 created
+131 s: creating Drone 15
+133 s: Drone 13 created
+140 s: Drone 14 created
+148 s: Drone 15 created
+173 s: Spawning_Pool 1 created
+Drone: 0 took 17.0
+Drone: 15.3099989891 took 17.0
+Drone: 30.4600000381 took 17.0
+Drone: 38.1200003624 took 17.0
+Extractor: 53.4299993515 took 17.8200006485
+Extractor: 61.5599989891 took 10.150001049
+Drone: 69.6799993515 took 17.0
+Drone: 70.3099989891 took 17.0
+Overlord: 76.8700003624 took 25.0
+Spawning_Pool: 107.339999676 took 65.0
+Drone: 108.429999352 took 17.0
+Drone: 115.460000038 took 17.0
+Drone: 123.120000362 took 17.0
+Drone: 130.780000687 took 17.0

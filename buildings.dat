@@ -1,0 +1,49 @@
+Command_Center  	  400  	 0   	  100  	1500
+Supply_Depot 	100 	0 	30 	400
+Refinery 	75 	0 	30 	500
+Barracks 	150 	0 	65 	1000
+Orbital_Command 	150 	0 	35 	1500
+Planetary_Fortress 	150 	150 	50 	1500
+Engineering_Bay 	125 	0 	35 	850
+Bunker 	100 	0 	35 	400
+Missile_Turret 	100 	0 	25 	250
+Sensor_Tower 	125 	100 	25 	200
+Factory 	150 	100 	60 	1250
+Ghost_Academy 	150 	50 	40 	1250
+Armory 	150 	100 	65 	750
+Starport 	150 	100 	50 	1300
+Fusion_Core 	150 	150 	65 	750
+Tech_Lab 	50 	25 	25 	400
+Reactor 	50 	50 	50 	400
+Hatchery  	  300  	 0   	  100  	1250
+Extractor 	25 	0 	30 	500
+Spawning_Pool 	200 	0 	65 	750
+Evolution_Chamber 	75 	0 	35 	750
+Spine_Crawler 	100 	0 	50 	300
+Spore_Crawler 	75 	0 	30 	400
+Hydralisk_Den 	100 	100 	40 	850
+Baneling_Nest 	100 	50 	60 	850
+Lair 	150 	100 	80 	1800
+Roach_Warren 	150 	0 	55 	850
+Infestation_Pit 	100 	100 	50 	850
+Spire 	200 	200 	100 	600
+Nydus_Network 	150 	200 	50 	850
+Hive 	200 	150 	100 	2500
+Ultralisk_Cavern 	150 	200 	65 	600
+Greater_Spire 	100 	150 	100 	1000
+Creep_Tumor 	0 	0 	15 	50
+Nexus  	  400  	 0   	  100  	750  	750
+Pylon 	100 	0 	25 	200 	200
+Assimilator 	75 	0 	30 	450 	450
+Gateway 	150 	0 	65 	500 	500
+Forge 	150 	0 	35 	550 	550
+Photon_Cannon 	150 	0 	40 	150 	150
+Warpgate 	50 	50 	10 	500 	500
+Cybernetics_Core 	150 	0 	50 	550 	550
+Twilight_Council 	150 	100 	50 	500 	500
+Robotics_Facility 	200 	200 	65 	450 	450
+Stargate 	150 	150 	60 	600 	600
+Templar_Archives 	150 	200 	50 	500 	500
+Dark_Shrine 	100 	250 	100 	500 	500
+Robotics_Bay 	200 	200 	65 	500 	500
+Fleet_Beacon 	300 	200 	60 	500 	500
